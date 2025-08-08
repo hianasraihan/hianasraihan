@@ -10,55 +10,16 @@ I'm a passionate **Full-Stack Web Developer** from **Indonesia**, with a strong 
 
 ## 💻 Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="Next.js" /><br/>
-      <sub><b>Next.js</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" /><br/>
-      <sub><b>React.js</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase" /><br/>
-      <sub><b>Supabase</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /><br/>
-      <sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /><br/>
-      <sub><b>Node.js</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /><br/>
-      <sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite.js" /><br/>
-      <sub><b>Vite.js</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" /><br/>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" /><br/>
-      <sub><b>Vercel</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /><br/>
-      <sub><b>Python</b></sub>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
