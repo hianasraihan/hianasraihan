@@ -1,7 +1,7 @@
-## Hi, I'm Raihan 👋
+# Hi, I'm Raihan 👋
 ---
 
-<div align="left">
+<div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding-gif" />
 </div>
 
