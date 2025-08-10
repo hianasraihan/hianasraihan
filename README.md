@@ -23,6 +23,7 @@ I'm a passionate **Full-Stack Web Developer** from **Indonesia**, with a strong 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
+<hr style="height:0px; border:none; background-color:#ccc;" />
 
 ## 🤝 Connect With Me
 
