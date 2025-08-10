@@ -28,7 +28,7 @@ I'm a passionate **Full-Stack Web Developer** from **Indonesia**, with a strong 
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/usernamekamu](https://www.linkedin.com/in/anasraihan00/)" target="_blank">
+  <a href="https://www.linkedin.com/in/anasraihan00/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:hianasraihan@gmail.com">
